@@ -1,0 +1,22 @@
+{
+    "name": "orglinker/external-integration",
+    "description": "This library will be working with orglinker api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artem Stanislavenko",
+            "email": "artemstanislavenko@gmail.com"
+        },
+        {
+            "name": "Orglinker",
+            "email": "develop@orglinker.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Orglinker\\": "src"
+        }
+    },
+    "require": {}
+}
