@@ -1,4 +1,4 @@
-Library for orglinker API. To install an instance of orglinker, go to orglinker.com
+Library for orglinker API. To install an instance of orglinker, go to https://orglinker.com/
 
 Install library ```composer require orglinker/external-integration```
 
