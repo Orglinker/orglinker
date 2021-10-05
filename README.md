@@ -1,6 +1,6 @@
-Library for orglinker API.
+Library for orglinker API. To install an instance of orglinker, go to orglinker.com
 
-Install ```composer require orglinker/external-integration```
+Install library ```composer require orglinker/external-integration```
 
 First you need to specify the connection parameters.
 
