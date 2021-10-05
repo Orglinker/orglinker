@@ -1,5 +1,7 @@
 Library for orglinker API.
 
+Install ```composer require orglinker/external-integration```
+
 First you need to specify the connection parameters.
 
 ```php
